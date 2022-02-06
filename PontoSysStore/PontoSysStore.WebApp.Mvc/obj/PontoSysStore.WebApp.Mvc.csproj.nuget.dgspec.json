@@ -1,0 +1,811 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\PontoSysStore.WebApp.Mvc\\PontoSysStore.WebApp.Mvc.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\PontoSysStore.WebApp.Mvc\\PontoSysStore.WebApp.Mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\PontoSysStore.WebApp.Mvc\\PontoSysStore.WebApp.Mvc.csproj",
+        "projectName": "PontoSysStore.WebApp.Mvc",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\PontoSysStore.WebApp.Mvc\\PontoSysStore.WebApp.Mvc.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\PontoSysStore.WebApp.Mvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Application\\PontoSysStore.Catalogo.Application.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Application\\PontoSysStore.Catalogo.Application.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Data\\PontoSysStore.Catalogo.Data.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Data\\PontoSysStore.Catalogo.Data.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.AntiCorruption\\PontoSysStore.Pagamentos.AntiCorruption.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.AntiCorruption\\PontoSysStore.Pagamentos.AntiCorruption.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Data\\PontoSysStore.Pagamentos.Data.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Data\\PontoSysStore.Pagamentos.Data.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Application\\PontoSysStore.Vendas.Application.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Application\\PontoSysStore.Vendas.Application.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Data\\PontoSysStore.Vendas.Data.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Data\\PontoSysStore.Vendas.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Application\\PontoSysStore.Catalogo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Application\\PontoSysStore.Catalogo.Application.csproj",
+        "projectName": "PontoSysStore.Catalogo.Application",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Application\\PontoSysStore.Catalogo.Application.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Data\\PontoSysStore.Catalogo.Data.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Data\\PontoSysStore.Catalogo.Data.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "automapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Data\\PontoSysStore.Catalogo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Data\\PontoSysStore.Catalogo.Data.csproj",
+        "projectName": "PontoSysStore.Catalogo.Data",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Data\\PontoSysStore.Catalogo.Data.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj",
+        "projectName": "PontoSysStore.Catalogo.Domain",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\PontoSysStore.Catalogo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Catalogo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "mediatr": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj",
+        "projectName": "PontoSysStore.Core",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.AntiCorruption\\PontoSysStore.Pagamentos.AntiCorruption.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.AntiCorruption\\PontoSysStore.Pagamentos.AntiCorruption.csproj",
+        "projectName": "PontoSysStore.Pagamentos.AntiCorruption",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.AntiCorruption\\PontoSysStore.Pagamentos.AntiCorruption.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.AntiCorruption\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj",
+        "projectName": "PontoSysStore.Pagamentos.Business",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Data\\PontoSysStore.Pagamentos.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Data\\PontoSysStore.Pagamentos.Data.csproj",
+        "projectName": "PontoSysStore.Pagamentos.Data",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Data\\PontoSysStore.Pagamentos.Data.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Application\\PontoSysStore.Vendas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Application\\PontoSysStore.Vendas.Application.csproj",
+        "projectName": "PontoSysStore.Vendas.Application",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Application\\PontoSysStore.Vendas.Application.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj"
+              },
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Domain\\PontoSysStore.Vendas.Domain.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Domain\\PontoSysStore.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Data\\PontoSysStore.Vendas.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Data\\PontoSysStore.Vendas.Data.csproj",
+        "projectName": "PontoSysStore.Vendas.Data",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Data\\PontoSysStore.Vendas.Data.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Domain\\PontoSysStore.Vendas.Domain.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Domain\\PontoSysStore.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Domain\\PontoSysStore.Vendas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Domain\\PontoSysStore.Vendas.Domain.csproj",
+        "projectName": "PontoSysStore.Vendas.Domain",
+        "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Domain\\PontoSysStore.Vendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Vendas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj": {
+                "projectPath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Core\\PontoSysStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

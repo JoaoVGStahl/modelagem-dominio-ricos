@@ -1,0 +1,17 @@
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.deps.json
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Data.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Domain.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Core.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Data.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Domain.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Core.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.csproj.AssemblyReference.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.AssemblyInfoInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.AssemblyInfo.cs
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.csproj.CopyComplete
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Catalogo.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Catalogo.Application.pdb

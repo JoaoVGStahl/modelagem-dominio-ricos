@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-PontoSysStore.WebApp.Mvc-197C9F4D-34A7-4DB8-A369-ED6A3F0383BD</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.21" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.21" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.21" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.21" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.21" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\src\PontoSysStore.Catalogo.Application\PontoSysStore.Catalogo.Application.csproj" />
+    <ProjectReference Include="..\src\PontoSysStore.Catalogo.Data\PontoSysStore.Catalogo.Data.csproj" />
+    <ProjectReference Include="..\src\PontoSysStore.Catalogo.Domain\PontoSysStore.Catalogo.Domain.csproj" />
+    <ProjectReference Include="..\src\PontoSysStore.Core\PontoSysStore.Core.csproj" />
+    <ProjectReference Include="..\src\PontoSysStore.Pagamentos.AntiCorruption\PontoSysStore.Pagamentos.AntiCorruption.csproj" />
+    <ProjectReference Include="..\src\PontoSysStore.Pagamentos.Business\PontoSysStore.Pagamentos.Business.csproj" />
+    <ProjectReference Include="..\src\PontoSysStore.Pagamentos.Data\PontoSysStore.Pagamentos.Data.csproj" />
+    <ProjectReference Include="..\src\PontoSysStore.Vendas.Application\PontoSysStore.Vendas.Application.csproj" />
+    <ProjectReference Include="..\src\PontoSysStore.Vendas.Data\PontoSysStore.Vendas.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Imagens\" />
+  </ItemGroup>
+
+</Project>

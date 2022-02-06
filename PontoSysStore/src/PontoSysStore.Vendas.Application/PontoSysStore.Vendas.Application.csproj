@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PontoSysStore.Core\PontoSysStore.Core.csproj" />
+    <ProjectReference Include="..\PontoSysStore.Vendas.Domain\PontoSysStore.Vendas.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

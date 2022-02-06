@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "71b2144c-3271-4292-abdc-b8fce0294bab": {
+      "ProjectGuid": "71b2144c-3271-4292-abdc-b8fce0294bab",
+      "DisplayName": "PontoSysStore.Core",
+      "ColorIndex": 0
+    },
+    "3e6bdb62-e68a-4a2e-85b4-0e697779cff1": {
+      "ProjectGuid": "3e6bdb62-e68a-4a2e-85b4-0e697779cff1",
+      "DisplayName": "PontoSysStore.Catalogo.Domain",
+      "ColorIndex": 1
+    },
+    "50d38a7f-bc9a-4e10-9374-da448b91edd2": {
+      "ProjectGuid": "50d38a7f-bc9a-4e10-9374-da448b91edd2",
+      "DisplayName": "PontoSysStore.Catalogo.Domain.Tests",
+      "ColorIndex": 2
+    },
+    "aad518a1-f15c-4fdb-a3a0-b560f847a7cd": {
+      "ProjectGuid": "aad518a1-f15c-4fdb-a3a0-b560f847a7cd",
+      "DisplayName": "PontoSysStore.Catalogo.Data",
+      "ColorIndex": 3
+    },
+    "e61fc3ca-070e-474e-92c9-982a4a696ddc": {
+      "ProjectGuid": "e61fc3ca-070e-474e-92c9-982a4a696ddc",
+      "DisplayName": "PontoSysStore.Catalogo.Application",
+      "ColorIndex": 4
+    },
+    "a00fe99b-4fcf-4adb-8dcc-9856c920f719": {
+      "ProjectGuid": "a00fe99b-4fcf-4adb-8dcc-9856c920f719",
+      "DisplayName": "PontoSysStore.WebApp.Mvc",
+      "ColorIndex": 5
+    },
+    "69578282-51f2-430e-926f-7540dc0eaf22": {
+      "ProjectGuid": "69578282-51f2-430e-926f-7540dc0eaf22",
+      "DisplayName": "PontoSysStore.Vendas.Domain",
+      "ColorIndex": 6
+    },
+    "acbb06ec-f5a4-407f-bdce-cf4a487b7f26": {
+      "ProjectGuid": "acbb06ec-f5a4-407f-bdce-cf4a487b7f26",
+      "DisplayName": "PontoSysStore.Vendas.Application",
+      "ColorIndex": 7
+    },
+    "08b288f0-e1d1-4645-8e0a-806edeeb46dc": {
+      "ProjectGuid": "08b288f0-e1d1-4645-8e0a-806edeeb46dc",
+      "DisplayName": "PontoSysStore.Vendas.Data",
+      "ColorIndex": 8
+    },
+    "75647e73-da54-46e0-8725-c0d49730e7f2": {
+      "ProjectGuid": "75647e73-da54-46e0-8725-c0d49730e7f2",
+      "DisplayName": "PontoSysStore.Pagamentos.AntiCorruption",
+      "ColorIndex": 9
+    },
+    "e774615f-998f-4042-b59e-ec5bf394ce3c": {
+      "ProjectGuid": "e774615f-998f-4042-b59e-ec5bf394ce3c",
+      "DisplayName": "PontoSysStore.Pagamentos.Business",
+      "ColorIndex": 10
+    },
+    "be129cad-db54-4cb5-9214-4d0fd483606e": {
+      "ProjectGuid": "be129cad-db54-4cb5-9214-4d0fd483606e",
+      "DisplayName": "PontoSysStore.Pagamentos.Data",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

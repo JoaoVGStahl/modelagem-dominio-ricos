@@ -1,0 +1,15 @@
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.csproj.AssemblyReference.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.AssemblyInfoInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.AssemblyInfo.cs
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.csproj.CoreCompileInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.deps.json
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\bin\Debug\netcoreapp3.1\PontoSysStore.Core.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\bin\Debug\netcoreapp3.1\PontoSysStore.Core.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.csproj.CopyComplete
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Data\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Data.pdb

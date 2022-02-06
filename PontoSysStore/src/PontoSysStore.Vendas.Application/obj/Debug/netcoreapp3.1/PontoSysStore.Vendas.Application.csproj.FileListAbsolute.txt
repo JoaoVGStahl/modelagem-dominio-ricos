@@ -1,0 +1,15 @@
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.csproj.AssemblyReference.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.AssemblyInfo.cs
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.deps.json
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Core.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Vendas.Domain.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Core.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\bin\Debug\netcoreapp3.1\PontoSysStore.Vendas.Domain.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.csproj.CopyComplete
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Vendas.Application\obj\Debug\netcoreapp3.1\PontoSysStore.Vendas.Application.pdb

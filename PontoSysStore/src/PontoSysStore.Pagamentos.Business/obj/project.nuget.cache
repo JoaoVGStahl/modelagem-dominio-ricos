@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+juCtGmXrW+qI5lG1z3lb6b5jxTWRIHCBGatTUlE+SZ7dec75QIyph3kiO0Mxs/BY3Dlx5cUnWGIkR25CQ6lg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\modelagem-dominio-ricos\\PontoSysStore\\src\\PontoSysStore.Pagamentos.Business\\PontoSysStore.Pagamentos.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

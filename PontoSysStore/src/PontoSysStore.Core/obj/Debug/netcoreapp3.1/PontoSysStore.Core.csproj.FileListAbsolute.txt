@@ -1,0 +1,10 @@
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\bin\Debug\netcoreapp3.1\PontoSysStore.Core.deps.json
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\bin\Debug\netcoreapp3.1\PontoSysStore.Core.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\bin\Debug\netcoreapp3.1\PontoSysStore.Core.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\obj\Debug\netcoreapp3.1\PontoSysStore.Core.csproj.AssemblyReference.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\obj\Debug\netcoreapp3.1\PontoSysStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\obj\Debug\netcoreapp3.1\PontoSysStore.Core.AssemblyInfoInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\obj\Debug\netcoreapp3.1\PontoSysStore.Core.AssemblyInfo.cs
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\obj\Debug\netcoreapp3.1\PontoSysStore.Core.csproj.CoreCompileInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\obj\Debug\netcoreapp3.1\PontoSysStore.Core.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Core\obj\Debug\netcoreapp3.1\PontoSysStore.Core.pdb

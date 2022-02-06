@@ -1,0 +1,13 @@
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.csproj.AssemblyReference.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.AssemblyInfo.cs
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.deps.json
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\PontoSysStore.Core.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\PontoSysStore.Core.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.csproj.CopyComplete
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.pdb

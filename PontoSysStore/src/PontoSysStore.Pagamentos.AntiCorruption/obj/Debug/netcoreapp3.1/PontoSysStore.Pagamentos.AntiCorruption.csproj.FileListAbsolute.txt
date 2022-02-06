@@ -1,0 +1,15 @@
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.csproj.AssemblyReference.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.deps.json
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\PontoSysStore.Core.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.Business.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\PontoSysStore.Core.pdb
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.csproj.CopyComplete
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.dll
+C:\dev\modelagem-dominio-ricos\PontoSysStore\src\PontoSysStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\PontoSysStore.Pagamentos.AntiCorruption.pdb
